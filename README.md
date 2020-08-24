@@ -1,5 +1,5 @@
 
-<h1 align="center">WordPress Top 100 Elementor Plugins</h1>
+<h1 align="center">WordPress Top Elementor Plugins</h1>
 
 <p align="center">
   Browse the top 100 plugins from the WordPress repository.
@@ -219,5 +219,5 @@ Apply preset styling to Elementor widgets — <i>Last updated 2020-07-14 9:10am 
 ----
 
 <p align="right">
-  <i>Last updated 24 Aug 2020 11:08:16.</i>
+  <i>Last updated 24 Aug 2020 02:08:35.</i>
 </p>
